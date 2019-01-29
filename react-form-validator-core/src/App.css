@@ -1,0 +1,11 @@
+/* 
+    Desc: Form Validation
+*/
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+label, button[type="submit"] {
+    margin-top: 10px;
+}

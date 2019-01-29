@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './App.css';
 
 const required = fieldValue => fieldValue ? undefined : "Please enter a value";
 const lessThanValue = value => fieldValue =>
